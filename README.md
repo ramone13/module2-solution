@@ -1,2 +1,2 @@
 # module2-solution
-Coursera assignment
+Coursera assignment #2
